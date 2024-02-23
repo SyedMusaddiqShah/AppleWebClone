@@ -308,6 +308,7 @@
     margin-top: 5px;
     padding-left: 80px;
 }
+
 .body8 p:first-child {
     font-size: 40px;
     font-weight: bold;
@@ -393,7 +394,6 @@
     margin-top: 40px;
     font-size: 12px;
     row-gap: 1px;
-    font-gap: 0px;
 }
 
 
